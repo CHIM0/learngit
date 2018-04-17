@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 NO Fast-forward!
 dev!!!!
+There is another person to help you!
